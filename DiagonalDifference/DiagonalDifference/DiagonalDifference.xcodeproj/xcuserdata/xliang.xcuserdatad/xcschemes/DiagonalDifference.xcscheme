@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8A5D00141C541F94002AD98F"
-               BuildableName = "HackerRank"
-               BlueprintName = "HackerRank"
-               ReferencedContainer = "container:HackerRank.xcodeproj">
+               BlueprintIdentifier = "8A5D003D1C549045002AD98F"
+               BuildableName = "DiagonalDifference"
+               BlueprintName = "DiagonalDifference"
+               ReferencedContainer = "container:DiagonalDifference.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A5D00141C541F94002AD98F"
-            BuildableName = "HackerRank"
-            BlueprintName = "HackerRank"
-            ReferencedContainer = "container:HackerRank.xcodeproj">
+            BlueprintIdentifier = "8A5D003D1C549045002AD98F"
+            BuildableName = "DiagonalDifference"
+            BlueprintName = "DiagonalDifference"
+            ReferencedContainer = "container:DiagonalDifference.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A5D00141C541F94002AD98F"
-            BuildableName = "HackerRank"
-            BlueprintName = "HackerRank"
-            ReferencedContainer = "container:HackerRank.xcodeproj">
+            BlueprintIdentifier = "8A5D003D1C549045002AD98F"
+            BuildableName = "DiagonalDifference"
+            BlueprintName = "DiagonalDifference"
+            ReferencedContainer = "container:DiagonalDifference.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A5D00141C541F94002AD98F"
-            BuildableName = "HackerRank"
-            BlueprintName = "HackerRank"
-            ReferencedContainer = "container:HackerRank.xcodeproj">
+            BlueprintIdentifier = "8A5D003D1C549045002AD98F"
+            BuildableName = "DiagonalDifference"
+            BlueprintName = "DiagonalDifference"
+            ReferencedContainer = "container:DiagonalDifference.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

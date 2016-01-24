@@ -32,7 +32,7 @@ func convertStringToNumbers(stringValue: String) -> [Int] {
         
         return getIntegerValue(value)
     })
-
+    
     return numberValues
 }
 
@@ -61,13 +61,13 @@ func getInputs(inputCount: Int) -> Array<Array<Int>> {
         
         let line = getLine()
         var numberValues: [Int] = convertStringToNumbers(line)
-            
+        
         // Slice to correct N X N dimension
         if numberValues.count > inputCount {
             
             numberValues = Array(numberValues[0..<inputCount])
         }
-            
+        
         inputs.append(numberValues)
     }
     
